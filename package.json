@@ -1,0 +1,8 @@
+{
+    "name": "purescript-pdf",
+    "description": "Purescript wrapper for PDF.js",
+    "license": "CC0",
+    "dependencies": {
+        "pdfjs-dist": "^1.6.359"
+    }
+}
